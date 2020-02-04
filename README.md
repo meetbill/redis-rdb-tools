@@ -110,7 +110,7 @@ Running with the  `-c memory` generates a CSV report with the approximate memory
     database：                  数据库编号
     type：                      数据结构类型
     key：                       k-v 中的 key
-    key_storage_size(bytes)：   key 存储所需空间
+    size_in_bytes：             内存占用（字节数）
     encoding：                  编码
     num_elements：              集合元素数
     len_largest_element：       集合中最长的一个元素的长度
